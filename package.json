@@ -1,0 +1,27 @@
+{
+  "name": "deneme",
+  "version": "0.1.0",
+  "description": "a verb config",
+  "main": "verbfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onokumus/deneme.git"
+  },
+  "keywords": [
+    "verb",
+    "markdown",
+    "doc"
+  ],
+  "author": "Osman Nuri Okumuş <onokumus@gmail.com> (https://github.com/onokumus)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onokumus/deneme/issues"
+  },
+  "homepage": "https://github.com/onokumus/deneme#readme",
+  "devDependencies": {
+    "verb": "git://github.com/verbose/verb.git"
+  }
+}
